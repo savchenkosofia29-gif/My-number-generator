@@ -1,0 +1,6 @@
+{
+  "name": "Random Number Generator",
+  "description": "A clean, responsive random number generator for picking numbers between 1 and 100 with smooth roll animations and history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
